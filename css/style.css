@@ -111,13 +111,7 @@ html {
     font-weight: 500;
 
 }
-.more-button::before {
-    content: '';
-    vertical-align: bottom;
-    width: 24px;
-    height: 24px;
-    background-image: url('../img/expand.svg');
-}
+
 .main__picture {
     width: 100%;
     
