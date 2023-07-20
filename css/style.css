@@ -100,17 +100,7 @@ html {
     font-weight: 400;
     padding-right: 5px;
 }
-.more-button {
-    display: flex;
-    justify-content: flex-start;
-    font-family: "TT Lakes",sans-serif;
-    align-items: center;
-    gap: 8px;
-    font-size: 16px;
-    padding: 0;
-    font-weight: 500;
 
-}
 
 .main__picture {
     width: 100%;
